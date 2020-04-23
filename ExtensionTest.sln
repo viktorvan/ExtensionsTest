@@ -9,6 +9,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Extensions", "Extensions\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{C0EC897B-F81F-4A10-997B-28101435E50F}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AppFSharp", "AppFSharp\AppFSharp.fsproj", "{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{C0EC897B-F81F-4A10-997B-28101435E50F}.Release|x64.Build.0 = Release|Any CPU
 		{C0EC897B-F81F-4A10-997B-28101435E50F}.Release|x86.ActiveCfg = Release|Any CPU
 		{C0EC897B-F81F-4A10-997B-28101435E50F}.Release|x86.Build.0 = Release|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Debug|x64.Build.0 = Debug|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Debug|x86.Build.0 = Debug|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Release|x64.ActiveCfg = Release|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Release|x64.Build.0 = Release|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Release|x86.ActiveCfg = Release|Any CPU
+		{C7C3367A-23D3-46E3-BF53-90B1BC32A3B9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
