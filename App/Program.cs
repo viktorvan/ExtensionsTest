@@ -9,7 +9,7 @@ namespace App
         {
             var myVar = new MyType("Charge quality put for serious.");
             Console.WriteLine($"Value is {myVar.Value}");
-            Console.WriteLine($"ValueLength is {myVar.Length}");
+            Console.WriteLine($"ValueLength is {myVar.ValueLength()}");
         }
     }
 }
